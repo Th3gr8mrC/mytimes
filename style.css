@@ -29,6 +29,7 @@ header p {
 
 header nav {
   padding-right: 40px;
+  align-items: right;
 }
 
 a {
