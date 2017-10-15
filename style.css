@@ -27,18 +27,15 @@ header p {
   
 }
 
-header nav {
-  padding-right: 40px;
+nav li {
   align-items: right;
+  display: inline-block;
+  padding: 20px 10px;
+  padding-right: 40px;
 }
 
 a {
   color: black;
-}
-
-nav li {
-  display: inline-block;
-  padding: 20px 10px;
 }
 
 body {
